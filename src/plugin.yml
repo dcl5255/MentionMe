@@ -1,0 +1,9 @@
+name: MentionMe
+version: 1.0
+authors: [Screwage]
+main: me.screwage.MentionMe.MentionMe
+api-version: 1.15
+description: Makes a player's name stand out whenever mentioned in the chat, and plays a sound effect.
+commands:
+  mentionme:
+    description: Edit the mentionme settings.
